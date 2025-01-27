@@ -1,0 +1,6 @@
+.aboutme-container {
+    flex: auto;
+    justify-content: center;
+    align-items: centera;
+    padding: 0 20% 0 20%;
+}

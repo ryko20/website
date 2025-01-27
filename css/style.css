@@ -1,7 +1,19 @@
 .intro-card {
-    background-color: cadetblue;
+    background-color: green;
 }
 
 .section-container {
-    padding-top: 40px
+    padding-top: 40px;
+}
+
+.WU-image {
+    max-width: 200px;
+}
+
+.education-text {
+    padding: 10% 0 0 0
+}
+
+.gap {
+    margin-top: 10;
 }
